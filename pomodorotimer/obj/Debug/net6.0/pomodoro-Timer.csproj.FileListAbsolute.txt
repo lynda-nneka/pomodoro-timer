@@ -1,0 +1,15 @@
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/bin/Debug/net6.0/pomodoro-Timer
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/bin/Debug/net6.0/pomodoro-Timer.deps.json
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/bin/Debug/net6.0/pomodoro-Timer.runtimeconfig.json
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/bin/Debug/net6.0/pomodoro-Timer.dll
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/bin/Debug/net6.0/pomodoro-Timer.pdb
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.csproj.AssemblyReference.cache
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.AssemblyInfoInputs.cache
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.AssemblyInfo.cs
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.csproj.CoreCompileInputs.cache
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.dll
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/refint/pomodoro-Timer.dll
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.pdb
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/pomodoro-Timer.genruntimeconfig.cache
+/Users/user/Projects/pomodoro-Timer/pomodoro-Timer/obj/Debug/net6.0/ref/pomodoro-Timer.dll
